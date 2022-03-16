@@ -1,0 +1,48 @@
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.csprojAssemblyReference.cache
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.AssemblyInfoInputs.cache
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.AssemblyInfo.cs
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.csproj.CoreCompileInputs.cache
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Laced Rentals Bot.exe
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\config.json
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Laced Rentals Bot.deps.json
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Laced Rentals Bot.runtimeconfig.json
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Laced Rentals Bot.runtimeconfig.dev.json
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Laced Rentals Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\ref\Laced Rentals Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Laced Rentals Bot.pdb
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Discord.Net.Commands.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Discord.Net.Core.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Discord.Net.Rest.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Discord.Net.Webhook.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Discord.Net.WebSocket.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Google.Protobuf.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\MySql.Data.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Zstandard.Net.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\Stripe.net.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\System.Drawing.Common.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\System.Interactive.Async.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\System.Linq.Async.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\System.Security.Permissions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\System.Windows.Extensions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.csproj.CopyComplete
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\ref\Laced Rentals Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.pdb
+C:\Users\ryanp\source\repos\Discord Bots\Laced Rentals Bot\obj\Release\net5.0\Laced Rentals Bot.genruntimeconfig.cache
